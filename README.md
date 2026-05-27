@@ -4,6 +4,36 @@ KishSyn Core is the clean living line after the older experimental KishAI/KishSy
 
 The project is R&D. It does not claim consciousness, AGI, or personhood. The purpose is to test whether adaptive organization can grow from lawful signal, focus, moment formation, body pressure, prediction, action, consequence, memory, replay, graph plasticity, and self-correction.
 
+## Commercial Use, Sponsorship, and Contact
+
+KishSyn / KishAI is an open research project exploring synthetic nervous-system architecture, grounded developmental learning, contextual affordances, memory economy, play-driven cognition, and safe staged embodiment.
+
+The core code is intended to be released under **AGPL-3.0-or-later** so researchers, developers, students, and independent builders can study, run, modify, and contribute to the project while keeping derivative networked or distributed versions open under the same license.
+
+If you are a company, lab, foundation, investor, researcher, educator, or developer interested in any of the following, please contact the project creator before building closed, hosted, commercial, or proprietary products around KishSyn:
+
+- commercial licensing
+- private deployment
+- hosted or SaaS use
+- research partnership
+- sponsorship or grant support
+- foundation or nonprofit support
+- hardware / robotics collaboration
+- academic collaboration
+- investment or incubation
+- paid development support
+- media, demos, or interviews
+
+KishSyn is not intended to be quietly absorbed into closed systems without discussion. The goal is to keep the core project open, scientifically honest, and contributor-friendly while allowing serious partners to support the work through sponsorship, funding, collaboration, or separate commercial agreements.
+
+Project creator: **Emerson F. Dowell**  
+Project: **KishSyn / KishAI**  
+Contact: **[EmersonDowell@gmail.com]**  
+Phone: (906) 361-3656
+Support / Sponsorship: **[https://www.patreon.com/c/KishAI]**
+
+If this project resonates with you and you want to help move synthetic organic intelligence research forward, contributions, issues, pull requests, feedback, funding, and serious collaboration inquiries are welcome.
+
 ## Current version
 
 v040 starts and locks **M14: Interface Affordance Discovery** while preserving M7-M13. The repo now lets observed desktop/program UI elements become reusable interface signatures and proposal-only affordance contracts. Buttons, text fields, menus, consoles, files, webviews, and windows are learned as environment objects first, never as hidden automation handles. The future `.exe` path remains shell-independent: web, CLI, and desktop shells must all wrap the same organism loop and `stores/` brain state.
