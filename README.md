@@ -1,5 +1,7 @@
 # KishSyn Core Rebase
 
+Core theory behind this project: https://docs.google.com/document/d/1yFRS16gbqi4CIyVR5Y0OeUc9mNUDGx50/edit?usp=sharing&ouid=111998234953561188010&rtpof=true&sd=true
+
 KishSyn Core is the clean living line after the older experimental KishAI/KishSyn archive. It is a deliberately small synthetic nervous-system substrate: one organism loop, one deterministic ecology, one synapse graph, one observatory, one evidence path, and governed milestone locks.
 
 The project is R&D. It does not claim consciousness, AGI, or personhood. The purpose is to test whether adaptive organization can grow from lawful signal, focus, moment formation, body pressure, prediction, action, consequence, memory, replay, graph plasticity, and self-correction.
