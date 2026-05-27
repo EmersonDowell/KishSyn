@@ -30,6 +30,7 @@ Project creator: **Emerson F. Dowell**
 Project: **KishSyn / KishAI**  
 Contact: **[EmersonDowell@gmail.com]**  
 Phone: (906) 361-3656
+
 Support / Sponsorship: **[https://www.patreon.com/c/KishAI]**
 
 If this project resonates with you and you want to help move synthetic organic intelligence research forward, contributions, issues, pull requests, feedback, funding, and serious collaboration inquiries are welcome.
